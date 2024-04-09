@@ -24,7 +24,7 @@ Welcome to our Spiritual Packages Travel Website repository! This project is a P
   To run this project locally on your machine, follow these steps:
 
   # 1.Clone the Repository:
-    git clone https://github.com/yourusername/spiritual-packages-travel-website.git
+    git clone https://github.com/KishanGinoya/spiritualZone.git
     
   # 2. Set Up Database:
 
