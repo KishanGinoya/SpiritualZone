@@ -12,13 +12,13 @@ Welcome to our Spiritual Packages Travel Website repository! This project is a P
 
 # Features
 
-  -Booking Services <br>
-  -Information of different types of tour packages <br>
-  -View Packages and Enquiry option <br>
-  -Manage users and feedback <br>
-  -Ticket Download in PDF <br>
-  -Different Category <br>
-  -View any package or Ticket <br>
+  - Booking Services <br>
+  - Information of different types of tour packages <br>
+  - View Packages and Enquiry option <br>
+  - Manage users and feedback <br>
+  - Ticket Download in PDF <br>
+  - Different Category <br>
+  - View any package or Ticket <br>
 
 # Installation
   To run this project locally on your machine, follow these steps:
@@ -36,9 +36,9 @@ Welcome to our Spiritual Packages Travel Website repository! This project is a P
     Open your web browser and navigate to http://localhost/spiritualZone to access the website.
 # Technologies Used
 
-  Frontend: HTML, CSS, Bootstrap (or other frontend frameworks)
-  Backend: PHP
-  Database: MySQL (or other relational databases)
+  Frontend: HTML, CSS, Bootstrap (or other frontend frameworks)<br>
+  Backend: PHP<br>
+  Database: MySQL (or other relational databases)<br>
 
 # Contributing
   We welcome contributions from the community to enhance and expand our website. If you're interested in contributing, please follow these guidelines:
